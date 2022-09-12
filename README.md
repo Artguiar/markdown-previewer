@@ -20,7 +20,7 @@ Inspired by the [Build a Markdown Previewer challenge](https://learn.freecodecam
 
 ## Demo
 
-View project demo at [https://artguiar.github.io/markdown-previewer](https://artguiar.github.io/markdown-previewer).
+View project demo at https://artguiar.github.io/markdown-previewer/
 
 ## Instructions
 
